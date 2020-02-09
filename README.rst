@@ -10,11 +10,11 @@ This project is based and inspired by
 
 Project Info
 ------------
-This project is still en early development.
+This project is still at early development.
 
 - GitHub: `https://github.com/joapuiib/PyClassroom <https://github.com/joapuiib/PyClassroom>`_
 
-Features of PyDrive
+Features of PyClassroom
 -------------------
 
 -  Based on OAuth2.0 manager in 

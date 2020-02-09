@@ -11,7 +11,7 @@ setup(
     url='',
     license='LICENSE',
     description='Google Classroom API made easy.',
-    long_description=open('README.md').read(),
+    long_description=open('README.rst').read(),
     install_requires=[
         "pydrive >= 1.3.2",
     ],
